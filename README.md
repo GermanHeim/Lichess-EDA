@@ -1,13 +1,13 @@
 <img src="https://i.imgur.com/Cb6DR9b.png">
-# Chess: An analysis of 20.000 games
-### by Germán Heim
+<h1>Chess: An analysis of 20.000 games</h1>
+<h3>by Germán Heim</h3>
 
 Chess is a game between two opponents in which each one has 16 moving pieces placed on a board, divided into 64 squares. These squares are alternated in black and white colours, which constitute the 64 possible positions of the pieces for the game's development. Each player has sixteen pieces at the beginning of the game: a king, a queen, two bishops, two knights, two rooks, and eight pawns. The objective of the game is to "overthrow" the opponent's king.
 
 The dataset used in this analysis takes more than 20.000 different games from the platform "[Lichess](http://lichess.org/)" (a free and open-source Internet chess platform run by a non-profit organization), using different time controls and by different rating ELOs.
 
 
-### How to run the code
+<h2>How to run the code</h2>
 
 Use the following [*Jovian.ml hosted executable*](https://jovian.ai/germanheim/chess-an-analysis-of-100-games).
 This is an executable [*Jupyter notebook*](https://jupyter.org) hosted on [Jovian.ml](https://www.jovian.ml), a platform for sharing data science projects. You can run and experiment with the code in a couple of ways: *using free online resources* or *on your own computer*.
