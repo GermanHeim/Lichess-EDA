@@ -9,7 +9,7 @@ The dataset used in this analysis takes more than 20.000 different games from th
 
 <h2>How to run the code</h2>
 
-Use the following [*Jovian.ml hosted executable*](https://jovian.ai/germanheim/chess-an-analysis-of-100-games).
+Use the following [*Jovian.ml hosted executable*](https://jovian.ai/germanheim/chess-an-analysis-of-20000-games).
 This is an executable [*Jupyter notebook*](https://jupyter.org) hosted on [Jovian.ml](https://www.jovian.ml), a platform for sharing data science projects. You can run and experiment with the code in a couple of ways: *using free online resources* or *on your own computer*.
 
 #### Option 1: Running using free online resources
